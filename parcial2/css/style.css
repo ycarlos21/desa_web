@@ -1,0 +1,24 @@
+*{
+    margin: 1px;
+}
+.texto{
+    color: rgb(69, 24, 215);
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px rgb(41, 234, 115) solid;
+    border-radius: 200px;
+}
+body{
+    background-color: antiquewhite;
+}
+.fecha{
+    color: brown;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px rgb(41, 234, 115) solid;
+    border-radius: 200px;
+}
