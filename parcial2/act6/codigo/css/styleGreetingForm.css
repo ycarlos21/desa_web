@@ -1,0 +1,38 @@
+body {
+    background-color: lightcyan;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(67, 198, 19);
+    border-bottom: 1px solid rgb(33, 156, 126);
+}
+
+form {
+    text-align: center;
+    background-color: antiquewhite;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+form label {
+    color: rgb(67, 198, 19);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#btn-saludo {
+    color: rgb(67, 198, 19);
+    border-radius: 15px 8px 15px 8px;
+    background-color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.inputs {
+    background-color: lightcoral;
+    padding: 4px;
+}

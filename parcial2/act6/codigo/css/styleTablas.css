@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(148, 194, 229);
+}
+form{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+#btn-calcular{
+    font-size: 20px;
+    background-color: antiquewhite;
+    color: purple;
+    cursor: pointer;
+}
+a{
+    font-size: 25px;
+}
