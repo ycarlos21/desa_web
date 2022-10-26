@@ -1,3 +1,7 @@
+<!--Autor: Carlos Benito Ramirez Vazquez 5 PM
+    Actividad: Cambiar color de palabras por php
+-->
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
